@@ -538,7 +538,7 @@ p.album:nth-of-type(2)::before{
     background-position: center center;
 }
 p.album:nth-of-type(3)::before{
-    background-image: url("./img/アルバムジャケ_夜深.png");
+    background-image: url("./img/アルバムジャケ_よふかし！.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
