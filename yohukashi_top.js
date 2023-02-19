@@ -1,4 +1,3 @@
-$(function () {
   // ローダー終了
   function end_loader() {
     $('.loader').fadeOut(600);
@@ -11,7 +10,9 @@ $(function () {
   function hide_txt() {
     $('.loader .loadimg').fadeOut(300);
   }
- 
+
+// $(function () {
+
   // タイマー処理
   $(window).on('load', function () {
     // 処理①
@@ -27,7 +28,7 @@ $(function () {
       end_loader();
     }, 2500)
   })
-})
+// })
 
 function accordion_change(accordion){
   $('.accordion_one .accordion_header').removeClass('close');
