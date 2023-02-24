@@ -352,7 +352,7 @@ section{
 }
 
 .profile .accordion_one .open .header_inner::after{
-    content: "よつき";
+    content: "よづき";
     text-align: left;
     left: 2%;
 }
