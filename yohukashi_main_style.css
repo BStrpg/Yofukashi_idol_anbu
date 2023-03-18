@@ -116,7 +116,7 @@ section{
     top: 0;
     left: 0;
     border-bottom: 11rem solid transparent;
-    border-left: 40rem solid #c1274898;
+    border-left: 35rem solid #c1274898;
     /* ラベルの色はここで変更 */
     position: absolute;
     z-index: 100;
@@ -140,7 +140,7 @@ section{
     top: 0;
     right: 0;
     border-bottom: 11rem solid transparent;
-    border-right: 40rem solid #B330FF98;
+    border-right: 35rem solid #B330FF98;
     /* ラベルの色はここで変更 */
     position: absolute;
     z-index: 100;
@@ -164,7 +164,7 @@ section{
     top: 0;
     left: 0;
     border-bottom: 11rem solid transparent;
-    border-left: 40rem solid #12FF3A98;
+    border-left: 35rem solid #12FF3A98;
     /* ラベルの色はここで変更 */
     position: absolute;
     z-index: 100;
@@ -188,7 +188,7 @@ section{
     top: 0;
     right: 0;
     border-bottom: 11rem solid transparent;
-    border-right: 40rem solid #FFD40098;
+    border-right: 35rem solid #FFD40098;
     /* ラベルの色はここで変更 */
     position: absolute;
     z-index: 100;
