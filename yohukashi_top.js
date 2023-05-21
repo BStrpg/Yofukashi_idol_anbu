@@ -88,4 +88,12 @@ $(function(){
 
 }
 
+// グローバルメニュー
+$(function(){
+  $('.MenuBtn').on('click', function(){
+    $('.Menu').toggleClass('is-active');
+    $('.MenuBtn').toggleClass('isClosed');
+  });
+});
+
 // else if (isMobileSize) {
